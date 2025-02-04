@@ -745,6 +745,77 @@
                     "product_image": "https://www.senakalyan.org/dynamic_gallery/1689838051.png"
                 }
             ]
+          {
+            "service_id": 7,
+            "service_name": "Convention Hall",
+            "service_image": "https://senatravels.com/_next/image?url=%2Fgallery%2FIMG-20250129-WA0007.jpg&w=640&q=75",
+            "product_list": [
+                {
+                    "product_id": 1,
+                    "product_name": "Advanced Commando 4T 10W30 (Motorcycle Engine Oil)",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1689833415.png"
+                },
+                {
+                    "product_id": 2,
+                    "product_name": "Sena Durbar 5W30 (Passenger Car Engine Oil)",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1689833465.png"
+                },
+                {
+                    "product_id": 3,
+                    "product_name": "Sena Trigger 20W50 (Passenger Car Engine Oil)",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1689833686.png"
+                },
+                {
+                    "product_id": 4,
+                    "product_name": "Commando 4T 10w30 (Motorcycle Engine Oil)",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1689837124.png"
+                },
+                {
+                    "product_id": 5,
+                    "product_name": "Sena Anchor 15W40 (Diesel Engine Oil)",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1689835813.png"
+                },
+                {
+                    "product_id": 6,
+                    "product_name": "Sena Anchor Plus 20W50(Diesel Engine Oil)",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1689834106.png"
+                },
+                {
+                    "product_id": 7,
+                    "product_name": "Sena Red Beret 10W40(Passenger Car Engine Oil)",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1689837221.png"
+                },
+                {
+                    "product_id": 8,
+                    "product_name": "Sena HyBrid 0W20 (Passenger Car Engine Oil)",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1689837353.png"
+                },
+                {
+                    "product_id": 9,
+                    "product_name": "Sena Bunker",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1689837619.png"
+                },
+                {
+                    "product_id": 10,
+                    "product_name": "Sena Dextron",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1689837717.png"
+                },
+                {
+                    "product_id": 11,
+                    "product_name": "Sena Durjoy GearOil",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1689837904.png"
+                },
+                {
+                    "product_id": 12,
+                    "product_name": "Sena Bitumin",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1689837984.png"
+                },
+                {
+                    "product_id": 13,
+                    "product_name": "Sena Valour",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1689838051.png"
+                }
+            ]
         }
     ]
 }

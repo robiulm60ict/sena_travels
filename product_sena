@@ -1,753 +1,750 @@
-[
-  {
-    "service_id": 1,
-    "service_name": "Electrical Products",
-    "service_image": "https://www.senakalyan.org/dynamic_gallery/1714294629.png",
-    "product_list": [
-      {
-        "product_id": 1,
-        "product_name": "Single Phase Transformer",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1675916866.jpg"
-      },
-      {
-        "product_id": 2,
-        "product_name": "Three-Phase Transformer",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1675916879.jpg"
-      },
-      {
-        "product_id": 3,
-        "product_name": "Habib Fan",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1675917191.png"
-      },
-      {
-        "product_id": 4,
-        "product_name": "Sena Energy Saving Fan",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1675917243.png"
-      },
-      {
-        "product_id": 5,
-        "product_name": "LT Switchgear Panel",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1707378134.png"
-      },
-      {
-        "product_id": 6,
-        "product_name": "HT Switchgear Panel",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1707378191.png"
-      },
-      {
-        "product_id": 7,
-        "product_name": "Power Factor Improvement Plant (PFI)",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1707378311.png"
-      },
-      {
-        "product_id": 8,
-        "product_name": "Generator",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1707378401.png"
-      },
-      {
-        "product_id": 9,
-        "product_name": "Bus-Bar Trunking Systems (BBTs)",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1707378480.png"
-      },
-      {
-        "product_id": 10,
-        "product_name": "Spot Light",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1674923174.jpg"
-      },
-      {
-        "product_id": 11,
-        "product_name": "Flood Light",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1674923197.jpg"
-      },
-      {
-        "product_id": 12,
-        "product_name": "Gate Light",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1675056849.jpg"
-      },
-      {
-        "product_id": 13,
-        "product_name": "Security/ Street Light (LED)",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1675056868.jpg"
-      },
-      {
-        "product_id": 14,
-        "product_name": "Industrial Shed",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1675056883.jpg"
-      },
-      {
-        "product_id": 15,
-        "product_name": "Sena CFL",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1707378156.png"
-      },
-      {
-        "product_id": 16,
-        "product_name": "Sena LED",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1707378245.png"
-      },
-      {
-        "product_id": 17,
-        "product_name": "Sena LED Tube",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1707378332.png"
-      },
-      {
-        "product_id": 18,
-        "product_name": "Sena Prepaid Energy Meter",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1707378417.jpg"
-      },
-      {
-        "product_id": 19,
-        "product_name": "Panel Light",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1707378497.png"
-      }
+{
+    "products": [
+        {
+            "service_id": 1,
+            "service_name": "Electrical Products",
+            "service_image": "https://www.senakalyan.org/dynamic_gallery/1714294629.png",
+            "product_list": [
+                {
+                    "product_id": 1,
+                    "product_name": "Single Phase Transformer",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1675916866.jpg"
+                },
+                {
+                    "product_id": 2,
+                    "product_name": "Three-Phase Transformer",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1675916879.jpg"
+                },
+                {
+                    "product_id": 3,
+                    "product_name": "Habib Fan",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1675917191.png"
+                },
+                {
+                    "product_id": 4,
+                    "product_name": "Sena Energy Saving Fan",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1675917243.png"
+                },
+                {
+                    "product_id": 5,
+                    "product_name": "LT Switchgear Panel",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1707378134.png"
+                },
+                {
+                    "product_id": 6,
+                    "product_name": "HT Switchgear Panel",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1707378191.png"
+                },
+                {
+                    "product_id": 7,
+                    "product_name": "Power Factor Improvement Plant (PFI)",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1707378311.png"
+                },
+                {
+                    "product_id": 8,
+                    "product_name": "Generator",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1707378401.png"
+                },
+                {
+                    "product_id": 9,
+                    "product_name": "Bus-Bar Trunking Systems (BBTs)",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1707378480.png"
+                },
+                {
+                    "product_id": 10,
+                    "product_name": "Spot Light",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1674923174.jpg"
+                },
+                {
+                    "product_id": 11,
+                    "product_name": "Flood Light",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1674923197.jpg"
+                },
+                {
+                    "product_id": 12,
+                    "product_name": "Gate Light",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1675056849.jpg"
+                },
+                {
+                    "product_id": 13,
+                    "product_name": "Security/ Street Light (LED)",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1675056868.jpg"
+                },
+                {
+                    "product_id": 14,
+                    "product_name": "Industrial Shed",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1675056883.jpg"
+                },
+                {
+                    "product_id": 15,
+                    "product_name": "Sena CFL",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1707378156.png"
+                },
+                {
+                    "product_id": 16,
+                    "product_name": "Sena LED",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1707378245.png"
+                },
+                {
+                    "product_id": 17,
+                    "product_name": "Sena LED Tube",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1707378332.png"
+                },
+                {
+                    "product_id": 18,
+                    "product_name": "Sena Prepaid Energy Meter",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1707378417.jpg"
+                },
+                {
+                    "product_id": 19,
+                    "product_name": "Panel Light",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1707378497.png"
+                }
+            ]
+        },
+        {
+            "service_id": 2,
+            "service_name": "Food Items",
+            "service_image": "https://www.senakalyan.org/dynamic_gallery/1683789825.jpg",
+            "product_list": [
+                {
+                    "product_id": 1,
+                    "product_name": "Water",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1702284266.png"
+                },
+                {
+                    "product_id": 2,
+                    "product_name": "Edible Oil",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1704864420.jpg"
+                },
+                {
+                    "product_id": 3,
+                    "product_name": "Chinigura Aromatic Rice",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1675914029.jpg"
+                },
+                {
+                    "product_id": 4,
+                    "product_name": "Miniket Rice",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1675914057.jpg"
+                },
+                {
+                    "product_id": 5,
+                    "product_name": "Nazirshali Rice",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1675914137.jpg"
+                },
+                {
+                    "product_id": 6,
+                    "product_name": "Sena Kataribhog Chal",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1674922239.jpg"
+                },
+                {
+                    "product_id": 7,
+                    "product_name": "Deshi Mug Dal",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1675916342.png"
+                },
+                {
+                    "product_id": 8,
+                    "product_name": "Sena Atta",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1675913678.jpg"
+                },
+                {
+                    "product_id": 9,
+                    "product_name": "Coriander Powder",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1675916109.jpg"
+                },
+                {
+                    "product_id": 10,
+                    "product_name": "Cumin Powder",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1675914221.jpg"
+                },
+                {
+                    "product_id": 11,
+                    "product_name": "Sena Premium Tea",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1675915877.jpg"
+                },
+                {
+                    "product_id": 12,
+                    "product_name": "Fouji Products",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1675924100.jpg"
+                }
+            ]
+        },
+        {
+            "service_id": 3,
+            "service_name": "Construction Items",
+            "service_image": "https://www.senakalyan.org/dynamic_gallery/1675749890.jpg",
+            "product_list": [
+                {
+                    "product_id": 1,
+                    "product_name": "Elephant Brand Cement",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1674924481.jpg"
+                },
+                {
+                    "product_id": 2,
+                    "product_name": "Sena Cement",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1675575381.png"
+                },
+                {
+                    "product_id": 3,
+                    "product_name": "Elephant Brand Cement",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1684038969.jpg"
+                }
+            ]
+        },
+        {
+            "service_id": 4,
+            "service_name": "Garments Items",
+            "service_image": "https://www.senakalyan.org/dynamic_gallery/1675749906.png",
+            "product_list": [
+                {
+                    "product_id": 1,
+                    "product_name": "Consul Super Socks",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1675920046.png"
+                },
+                {
+                    "product_id": 2,
+                    "product_name": "Consul Super Socks",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1675920072.png"
+                },
+                {
+                    "product_id": 3,
+                    "product_name": "Consul Super Socks",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1675920083.png"
+                },
+                {
+                    "product_id": 4,
+                    "product_name": "BAF - BOOT DMS",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706685018.jpg"
+                },
+                {
+                    "product_id": 5,
+                    "product_name": "Bangladesh Army",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706685092.jpg"
+                },
+                {
+                    "product_id": 6,
+                    "product_name": "BGB",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706685111.jpg"
+                },
+                {
+                    "product_id": 7,
+                    "product_name": "Bangladesh Navy",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706685246.jpg"
+                },
+                {
+                    "product_id": 8,
+                    "product_name": "Cadet College",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706685540.jpg"
+                },
+                {
+                    "product_id": 9,
+                    "product_name": "Consul",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706685857.jpg"
+                },
+                {
+                    "product_id": 10,
+                    "product_name": "Consul plus",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706686083.jpg"
+                },
+                {
+                    "product_id": 11,
+                    "product_name": "Deluxe",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706688330.jpg"
+                },
+                {
+                    "product_id": 12,
+                    "product_name": "Lotus Long & Cotton",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706688582.jpg"
+                },
+                {
+                    "product_id": 13,
+                    "product_name": "Lotus Short",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706688697.jpg"
+                },
+                {
+                    "product_id": 14,
+                    "product_name": "Modhumoti (Skin Socks - Nylon)",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706688825.jpg"
+                },
+                {
+                    "product_id": 15,
+                    "product_name": "Euipment Camouflage Net",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689057.jpg"
+                },
+                {
+                    "product_id": 16,
+                    "product_name": "Sheet Ground",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689093.jpg"
+                },
+                {
+                    "product_id": 17,
+                    "product_name": "Rack Sack",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689108.jpg"
+                },
+                {
+                    "product_id": 18,
+                    "product_name": "40 Lbs",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689128.jpg"
+                },
+                {
+                    "product_id": 19,
+                    "product_name": "180 Lbd Pcs",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689139.jpg"
+                },
+                {
+                    "product_id": 20,
+                    "product_name": "",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689151.jpg"
+                },
+                {
+                    "product_id": 21,
+                    "product_name": "Bandoliar",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689167.jpg"
+                },
+                {
+                    "product_id": 22,
+                    "product_name": "Bandolier Three poket ( for PGR)",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689182.jpg"
+                },
+                {
+                    "product_id": 23,
+                    "product_name": "Bucket Water Canvas",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689195.jpg"
+                },
+                {
+                    "product_id": 24,
+                    "product_name": "Camp Cot - UN",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689208.jpg"
+                },
+                {
+                    "product_id": 25,
+                    "product_name": "Cover",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689221.jpg"
+                },
+                {
+                    "product_id": 26,
+                    "product_name": "Cover Water Botel",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689238.jpg"
+                },
+                {
+                    "product_id": 27,
+                    "product_name": "",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689247.jpg"
+                },
+                {
+                    "product_id": 28,
+                    "product_name": "Modified Kit Bag Size L-2.5' X W-1.08' X TH-1.08'",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689266.jpg"
+                },
+                {
+                    "product_id": 29,
+                    "product_name": "Tent 40 LBS Size L-8.85' X W-8.69' X TH- 6.23'",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689284.jpg"
+                },
+                {
+                    "product_id": 30,
+                    "product_name": "Tent 180 LBS Size L-16' X W-16' X TH-9.6'",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689306.jpg"
+                },
+                {
+                    "product_id": 31,
+                    "product_name": "Tent Bivouc Size L-6.40' X W-6.23' X TH-4.33'",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689321.jpg"
+                },
+                {
+                    "product_id": 32,
+                    "product_name": "Tent Latrine Size L-8.33' X W-4.94' X TH-8",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689333.jpg"
+                },
+                {
+                    "product_id": 33,
+                    "product_name": "Tent Store",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689346.jpg"
+                },
+                {
+                    "product_id": 34,
+                    "product_name": "Tent Ten Set Men",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689358.jpg"
+                },
+                {
+                    "product_id": 35,
+                    "product_name": "Traveling Bag - UN",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689371.jpg"
+                }
+            ]
+        },
+        {
+            "service_id": 5,
+            "service_name": "Sena Kalyan Constructions and Developments",
+            "service_image": "https://www.senakalyan.org/dynamic_gallery/1675749929.jpg",
+            "product_list": [
+                {
+                    "product_id": 1,
+                    "product_name": "41 storied",
+                    "product_statues": "UpComing",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1702198335.jpg"
+                },
+                {
+                    "product_id": 2,
+                    "product_name": "442-443, Rd-3, Bl-I, Bashundhara RA",
+                    "product_statues": "Ongoing",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1675921326.jpg"
+                },
+                {
+                    "product_id": 3,
+                    "product_name": "Plot No-379-380, Rd-12, Block-J Bashundhara RA",
+                    "product_statues": "Ongoing",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1677654328.jpg"
+                },
+                {
+                    "product_id": 4,
+                    "product_name": "Plot -39,Rd-1, Block-I, Banani",
+                    "product_statues": "Ongoing",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678679285.jpg"
+                },
+                {
+                    "product_id": 5,
+                    "product_name": "Baridhara DOHS",
+                    "product_statues": "Ongoing",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678680481.jpg"
+                },
+                {
+                    "product_id": 6,
+                    "product_name": "DHANMONDI, Plot no-69",
+                    "product_statues": "Ongoing",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1679463401.jpg"
+                },
+                {
+                    "product_id": 7,
+                    "product_name": "NIPOBON,Mehedibagh, Chattogram",
+                    "product_statues": "Ongoing",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1702185983.jpg"
+                },
+                {
+                    "product_id": 8,
+                    "product_name": "Sarkarbari,Mirpur DOHS",
+                    "product_statues": "Ongoing",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1679464477.jpg"
+                },
+                {
+                    "product_id": 9,
+                    "product_name": "11-408-007 Jalshiri Abashon",
+                    "product_statues": "Ongoing",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1704182072.jpg"
+                },
+                {
+                    "product_id": 10,
+                    "product_name": "17-502C-10 Jalshiri Abashon",
+                    "product_statues": "Ongoing",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1687243379.jpg"
+                },
+                {
+                    "product_id": 11,
+                    "product_name": "Plot no-323, Rd-05, Block-K Bashundhara RA",
+                    "product_statues": "Ongoing",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1702196429.jpg"
+                },
+                {
+                    "product_id": 12,
+                    "product_name": "Plot no-2480, Rd-10, Block-L Bashundhara RA",
+                    "product_statues": "Ongoing",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1702196449.jpg"
+                },
+                {
+                    "product_id": 13,
+                    "product_name": "Plot no 304, Rd-6, Block-I, Bashundhara RA",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678592550.jpg"
+                },
+                {
+                    "product_id": 14,
+                    "product_name": "Plot no 422-23, Rd-4, Bl-I, Bashundhara RA",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678593969.jpg"
+                },
+                {
+                    "product_id": 15,
+                    "product_name": "Plot no 508-509, Rd-2,Bl-I ,Bashundhara RA",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678594331.jpg"
+                },
+                {
+                    "product_id": 16,
+                    "product_name": "Plot-426-29, Road-06, Avenue-04, Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678596086.jpg"
+                },
+                {
+                    "product_id": 17,
+                    "product_name": "Shahid Paribar Tower 2 & 3, Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678596609.jpg"
+                },
+                {
+                    "product_id": 18,
+                    "product_name": "348,Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678598987.jpg"
+                },
+                {
+                    "product_id": 19,
+                    "product_name": "554,Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599016.jpg"
+                },
+                {
+                    "product_id": 20,
+                    "product_name": "669_n,Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599045.jpg"
+                },
+                {
+                    "product_id": 21,
+                    "product_name": "722,Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599097.jpg"
+                },
+                {
+                    "product_id": 22,
+                    "product_name": "786,Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599131.jpg"
+                },
+                {
+                    "product_id": 23,
+                    "product_name": "805,Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599232.jpg"
+                },
+                {
+                    "product_id": 24,
+                    "product_name": "809,Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599250.jpg"
+                },
+                {
+                    "product_id": 25,
+                    "product_name": "817,Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599272.jpg"
+                },
+                {
+                    "product_id": 26,
+                    "product_name": "824,Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599283.jpg"
+                },
+                {
+                    "product_id": 27,
+                    "product_name": "827,Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599299.jpg"
+                },
+                {
+                    "product_id": 28,
+                    "product_name": "837,Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599337.jpg"
+                },
+                {
+                    "product_id": 29,
+                    "product_name": "858,Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599360.jpg"
+                },
+                {
+                    "product_id": 30,
+                    "product_name": "929,Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599528.jpg"
+                },
+                {
+                    "product_id": 31,
+                    "product_name": "949,Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599547.jpg"
+                },
+                {
+                    "product_id": 32,
+                    "product_name": "971,Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599565.jpg"
+                },
+                {
+                    "product_id": 33,
+                    "product_name": "996,Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599591.jpg"
+                },
+                {
+                    "product_id": 34,
+                    "product_name": "1044,Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599604.jpg"
+                },
+                {
+                    "product_id": 35,
+                    "product_name": "1047-1048,Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599628.jpg"
+                },
+                {
+                    "product_id": 36,
+                    "product_name": "1053,Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599652.jpg"
+                },
+                {
+                    "product_id": 37,
+                    "product_name": "1075,Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599666.jpg"
+                },
+                {
+                    "product_id": 38,
+                    "product_name": "1083,Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599686.jpg"
+                },
+                {
+                    "product_id": 39,
+                    "product_name": "1113,Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599712.jpg"
+                },
+                {
+                    "product_id": 40,
+                    "product_name": "1131,Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599727.jpg"
+                },
+                {
+                    "product_id": 41,
+                    "product_name": "1135,Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599739.jpg"
+                },
+                {
+                    "product_id": 42,
+                    "product_name": "1136,Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599749.jpg"
+                },
+                {
+                    "product_id": 43,
+                    "product_name": "1157,Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599764.jpg"
+                },
+                {
+                    "product_id": 44,
+                    "product_name": "1181,Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599775.jpg"
+                },
+                {
+                    "product_id": 45,
+                    "product_name": "1238,Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599787.jpg"
+                },
+                {
+                    "product_id": 46,
+                    "product_name": "1251,Mirpur DOHS",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599823.jpg"
+                },
+                {
+                    "product_id": 47,
+                    "product_name": "Plot no 248 & 251, Road-7-8, Block-I, Bashundhara RA",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1686560451.jpg"
+                },
+                {
+                    "product_id": 48,
+                    "product_name": "Plot no 347, Road-11, Block-J, Bashundhara RA",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1686560614.jpg"
+                },
+                {
+                    "product_id": 49,
+                    "product_name": "Plot no 421,Rd-17, Bl-L, Bashundhara RA",
+                    "product_statues": "Handed Over",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1686560668.jpg"
+                }
+            ]
+        },
+        {
+            "service_id": 6,
+            "service_name": "Sena Petrochemicals",
+            "service_image": "https://www.senakalyan.org/dynamic_gallery/1714294148.png",
+            "product_list": [
+                {
+                    "product_id": 1,
+                    "product_name": "Advanced Commando 4T 10W30 (Motorcycle Engine Oil)",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1689833415.png"
+                },
+                {
+                    "product_id": 2,
+                    "product_name": "Sena Durbar 5W30 (Passenger Car Engine Oil)",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1689833465.png"
+                },
+                {
+                    "product_id": 3,
+                    "product_name": "Sena Trigger 20W50 (Passenger Car Engine Oil)",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1689833686.png"
+                },
+                {
+                    "product_id": 4,
+                    "product_name": "Commando 4T 10w30 (Motorcycle Engine Oil)",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1689837124.png"
+                },
+                {
+                    "product_id": 5,
+                    "product_name": "Sena Anchor 15W40 (Diesel Engine Oil)",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1689835813.png"
+                },
+                {
+                    "product_id": 6,
+                    "product_name": "Sena Anchor Plus 20W50(Diesel Engine Oil)",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1689834106.png"
+                },
+                {
+                    "product_id": 7,
+                    "product_name": "Sena Red Beret 10W40(Passenger Car Engine Oil)",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1689837221.png"
+                },
+                {
+                    "product_id": 8,
+                    "product_name": "Sena HyBrid 0W20 (Passenger Car Engine Oil)",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1689837353.png"
+                },
+                {
+                    "product_id": 9,
+                    "product_name": "Sena Bunker",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1689837619.png"
+                },
+                {
+                    "product_id": 10,
+                    "product_name": "Sena Dextron",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1689837717.png"
+                },
+                {
+                    "product_id": 11,
+                    "product_name": "Sena Durjoy GearOil",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1689837904.png"
+                },
+                {
+                    "product_id": 12,
+                    "product_name": "Sena Bitumin",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1689837984.png"
+                },
+                {
+                    "product_id": 13,
+                    "product_name": "Sena Valour",
+                    "product_image": "https://www.senakalyan.org/dynamic_gallery/1689838051.png"
+                }
+            ]
+        }
     ]
-  },
-  {
-    "service_id": 2,
-    "service_name": "Food Items",
-    "service_image": "https://www.senakalyan.org/dynamic_gallery/1683789825.jpg",
-    "product_list": [
-      {
-        "product_id": 1,
-        "product_name": "Water",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1702284266.png"
-      },
-      {
-        "product_id": 2,
-        "product_name": "Edible Oil",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1704864420.jpg"
-      },
-      {
-        "product_id": 3,
-        "product_name": "Chinigura Aromatic Rice",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1675914029.jpg"
-      },
-      {
-        "product_id": 4,
-        "product_name": "Miniket Rice",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1675914057.jpg"
-      },
-      {
-        "product_id": 5,
-        "product_name": "Nazirshali Rice",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1675914137.jpg"
-      },
-      {
-        "product_id": 6,
-        "product_name": "Sena Kataribhog Chal",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1674922239.jpg"
-      },
-      {
-        "product_id": 7,
-        "product_name": "Deshi Mug Dal",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1675916342.png"
-      },
-      {
-        "product_id": 8,
-        "product_name": "Sena Atta",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1675913678.jpg"
-      },
-      {
-        "product_id": 9,
-        "product_name": "Coriander Powder",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1675916109.jpg"
-      },
-      {
-        "product_id": 10,
-        "product_name": "Cumin Powder",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1675914221.jpg"
-      },
-      {
-        "product_id": 11,
-        "product_name": "Sena Premium Tea",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1675915877.jpg"
-      },
-      {
-        "product_id": 12,
-        "product_name": "Fouji Products",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1675924100.jpg"
-      }
-    ]
-  },
-  {
-    "service_id": 3,
-    "service_name": "Construction Items",
-    "service_image": "https://www.senakalyan.org/dynamic_gallery/1675749890.jpg",
-    "product_list": [
-      {
-        "product_id": 1,
-        "product_name": "Elephant Brand Cement",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1674924481.jpg"
-      },
-      {
-        "product_id": 2,
-        "product_name": "Sena Cement",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1675575381.png"
-      },
-      {
-        "product_id": 3,
-        "product_name": "Elephant Brand Cement",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1684038969.jpg"
-      }
-    ]
-  },
-  {
-    "service_id": 4,
-    "service_name": "Garments Items",
-    "service_image": "https://www.senakalyan.org/dynamic_gallery/1675749906.png",
-    "product_list": [
-      {
-        "product_id": 1,
-        "product_name": "Consul Super Socks",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1675920046.png"
-      },
-      {
-        "product_id": 2,
-        "product_name": "Consul Super Socks",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1675920072.png"
-      },
-      {
-        "product_id": 3,
-        "product_name": "Consul Super Socks",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1675920083.png"
-      },
-      {
-        "product_id": 4,
-        "product_name": "BAF - BOOT DMS",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706685018.jpg"
-      },
-      {
-        "product_id": 5,
-        "product_name": "Bangladesh Army",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706685092.jpg"
-      },
-      {
-        "product_id": 6,
-        "product_name": "BGB",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706685111.jpg"
-      },
-      {
-        "product_id": 7,
-        "product_name": "Bangladesh Navy",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706685246.jpg"
-      },
-      {
-        "product_id": 8,
-        "product_name": "Cadet College",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706685540.jpg"
-      },
-      {
-        "product_id": 9,
-        "product_name": "Consul",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706685857.jpg"
-      },
-      {
-        "product_id": 10,
-        "product_name": "Consul plus",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706686083.jpg"
-      },
-      {
-        "product_id": 11,
-        "product_name": "Deluxe",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706688330.jpg"
-      },
-      {
-        "product_id": 12,
-        "product_name": "Lotus Long & Cotton",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706688582.jpg"
-      },
-      {
-        "product_id": 13,
-        "product_name": "Lotus Short",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706688697.jpg"
-      },
-      {
-        "product_id": 14,
-        "product_name": "Modhumoti (Skin Socks - Nylon)",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706688825.jpg"
-      },
-      {
-        "product_id": 15,
-        "product_name": "Euipment Camouflage Net",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689057.jpg"
-      },
-      {
-        "product_id": 16,
-        "product_name": "Sheet Ground",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689093.jpg"
-      },
-      {
-        "product_id": 17,
-        "product_name": "Rack Sack",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689108.jpg"
-      },
-      {
-        "product_id": 18,
-        "product_name": "40 Lbs",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689128.jpg"
-      },
-      {
-        "product_id": 19,
-        "product_name": "180 Lbd Pcs",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689139.jpg"
-      },
-      {
-        "product_id": 20,
-        "product_name": "",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689151.jpg"
-      },
-      {
-        "product_id": 21,
-        "product_name": "Bandoliar",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689167.jpg"
-      },
-      {
-        "product_id": 22,
-        "product_name": "Bandolier Three poket ( for PGR)",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689182.jpg"
-      },
-      {
-        "product_id": 23,
-        "product_name": "Bucket Water Canvas",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689195.jpg"
-      },
-      {
-        "product_id": 24,
-        "product_name": "Camp Cot - UN",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689208.jpg"
-      },
-      {
-        "product_id": 25,
-        "product_name": "Cover",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689221.jpg"
-      },
-      {
-        "product_id": 26,
-        "product_name": "Cover Water Botel",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689238.jpg"
-      },
-      {
-        "product_id": 27,
-        "product_name": "",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689247.jpg"
-      },
-      {
-        "product_id": 28,
-        "product_name": "Modified Kit Bag Size L-2.5' X W-1.08' X TH-1.08'",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689266.jpg"
-      },
-      {
-        "product_id": 29,
-        "product_name": "Tent 40 LBS Size L-8.85' X W-8.69' X TH- 6.23'",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689284.jpg"
-      },
-      {
-        "product_id": 30,
-        "product_name": "Tent 180 LBS Size L-16' X W-16' X TH-9.6'",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689306.jpg"
-      },
-      {
-        "product_id": 31,
-        "product_name": "Tent Bivouc Size L-6.40' X W-6.23' X TH-4.33'",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689321.jpg"
-      },
-      {
-        "product_id": 32,
-        "product_name": "Tent Latrine Size L-8.33' X W-4.94' X TH-8",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689333.jpg"
-      },
-      {
-        "product_id": 33,
-        "product_name": "Tent Store",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689346.jpg"
-      },
-      {
-        "product_id": 34,
-        "product_name": "Tent Ten Set Men",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689358.jpg"
-      },
-      {
-        "product_id": 35,
-        "product_name": "Traveling Bag - UN",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1706689371.jpg"
-      }
-    ]
-  },
-  {
-    "service_id": 5,
-    "service_name": "Sena Kalyan Constructions and Developments",
-    "service_image": "https://www.senakalyan.org/dynamic_gallery/1675749929.jpg",
-    "product_list": [
-      {
-        "product_id": 1,
-        "product_name": "41 storied",
-        "product_statues": "UpComing",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1702198335.jpg"
-      },
-
-      {
-        "product_id": 2,
-        "product_name": "442-443, Rd-3, Bl-I, Bashundhara RA",
-        "product_statues": "Ongoing",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1675921326.jpg"
-      },
-      {
-        "product_id": 3,
-        "product_name": "Plot No-379-380, Rd-12, Block-J Bashundhara RA",
-        "product_statues": "Ongoing",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1677654328.jpg"
-      },
-      {
-        "product_id": 4,
-        "product_name": "Plot -39,Rd-1, Block-I, Banani",
-        "product_statues": "Ongoing",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678679285.jpg"
-      },
-      {
-        "product_id": 5,
-        "product_name": "Baridhara DOHS",
-        "product_statues": "Ongoing",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678680481.jpg"
-      },
-      {
-        "product_id": 6,
-        "product_name": "DHANMONDI, Plot no-69",
-        "product_statues": "Ongoing",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1679463401.jpg"
-      },
-      {
-        "product_id": 7,
-        "product_name": "NIPOBON,Mehedibagh, Chattogram",
-        "product_statues": "Ongoing",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1702185983.jpg"
-      },
-      {
-        "product_id": 8,
-        "product_name": "Sarkarbari,Mirpur DOHS",
-        "product_statues": "Ongoing",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1679464477.jpg"
-      },
-      {
-        "product_id": 9,
-        "product_name": "11-408-007 Jalshiri Abashon",
-        "product_statues": "Ongoing",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1704182072.jpg"
-      },
-      {
-        "product_id": 10,
-        "product_name": "17-502C-10 Jalshiri Abashon",
-        "product_statues": "Ongoing",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1687243379.jpg"
-      },
-      {
-        "product_id": 11,
-        "product_name": "Plot no-323, Rd-05, Block-K Bashundhara RA",
-        "product_statues": "Ongoing",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1702196429.jpg"
-      },
-      {
-        "product_id": 12,
-        "product_name": "Plot no-2480, Rd-10, Block-L Bashundhara RA",
-        "product_statues": "Ongoing",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1702196449.jpg"
-      },
-      {
-        "product_id": 13,
-        "product_name": "Plot no 304, Rd-6, Block-I, Bashundhara RA",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678592550.jpg"
-      },
-      {
-        "product_id": 14,
-        "product_name": "Plot no 422-23, Rd-4, Bl-I, Bashundhara RA",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678593969.jpg"
-      },
-      {
-        "product_id": 15,
-        "product_name": "Plot no 508-509, Rd-2,Bl-I ,Bashundhara RA",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678594331.jpg"
-      },
-      {
-        "product_id": 16,
-        "product_name": "Plot-426-29, Road-06, Avenue-04, Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678596086.jpg"
-      },
-      {
-        "product_id": 17,
-        "product_name": "Shahid Paribar Tower 2 & 3, Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678596609.jpg"
-      },
-      {
-        "product_id": 18,
-        "product_name": "348,Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678598987.jpg"
-      },
-      {
-        "product_id": 19,
-        "product_name": "554,Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599016.jpg"
-      },
-      {
-        "product_id": 20,
-        "product_name": "669_n,Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599045.jpg"
-      },
-      {
-        "product_id": 21,
-        "product_name": "722,Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599097.jpg"
-      },
-      {
-        "product_id": 22,
-        "product_name": "786,Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599131.jpg"
-      },
-      {
-        "product_id": 23,
-        "product_name": "805,Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599232.jpg"
-      },
-      {
-        "product_id": 24,
-        "product_name": "809,Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599250.jpg"
-      },
-      {
-        "product_id": 25,
-        "product_name": "817,Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599272.jpg"
-      },
-      {
-        "product_id": 26,
-        "product_name": "824,Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599283.jpg"
-      },
-      {
-        "product_id": 27,
-        "product_name": "827,Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599299.jpg"
-      },
-      {
-        "product_id": 28,
-        "product_name": "837,Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599337.jpg"
-      },
-      {
-        "product_id": 29,
-        "product_name": "858,Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599360.jpg"
-      },
-      {
-        "product_id": 30,
-        "product_name": "929,Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599528.jpg"
-      },
-      {
-        "product_id": 31,
-        "product_name": "949,Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599547.jpg"
-      },
-      {
-        "product_id": 32,
-        "product_name": "971,Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599565.jpg"
-      },
-      {
-        "product_id": 33,
-        "product_name": "996,Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599591.jpg"
-      },
-      {
-        "product_id": 34,
-        "product_name": "1044,Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599604.jpg"
-      },
-      {
-        "product_id": 35,
-        "product_name": "1047-1048,Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599628.jpg"
-      },
-      {
-        "product_id": 36,
-        "product_name": "1053,Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599652.jpg"
-      },
-      {
-        "product_id": 37,
-        "product_name": "1075,Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599666.jpg"
-      },
-      {
-        "product_id": 38,
-        "product_name": "1083,Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599686.jpg"
-      },
-      {
-        "product_id": 39,
-        "product_name": "1113,Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599712.jpg"
-      },
-      {
-        "product_id": 40,
-        "product_name": "1131,Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599727.jpg"
-      },
-      {
-        "product_id": 41,
-        "product_name": "1135,Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599739.jpg"
-      },
-      {
-        "product_id": 42,
-        "product_name": "1136,Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599749.jpg"
-      },
-      {
-        "product_id": 43,
-        "product_name": "1157,Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599764.jpg"
-      },
-      {
-        "product_id": 44,
-        "product_name": "1181,Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599775.jpg"
-      },
-      {
-        "product_id": 45,
-        "product_name": "1238,Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599787.jpg"
-      },
-      {
-        "product_id": 46,
-        "product_name": "1251,Mirpur DOHS",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1678599823.jpg"
-      },
-      {
-        "product_id": 47,
-        "product_name": "Plot no 248 & 251, Road-7-8, Block-I, Bashundhara RA",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1686560451.jpg"
-      },
-      {
-        "product_id": 48,
-        "product_name": "Plot no 347, Road-11, Block-J, Bashundhara RA",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1686560614.jpg"
-      },
-      {
-        "product_id": 49,
-        "product_name": "Plot no 421,Rd-17, Bl-L, Bashundhara RA",
-        "product_statues": "Handed Over",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1686560668.jpg"
-      }
-
-
-    ]
-  },
-  {
-    "service_id": 6,
-    "service_name": "Sena Petrochemicals",
-    "service_image": "https://www.senakalyan.org/dynamic_gallery/1714294148.png",
-    "product_list": [
-      {
-        "product_id": 1,
-        "product_name": "Advanced Commando 4T 10W30 (Motorcycle Engine Oil)",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1689833415.png"
-      },
-      {
-        "product_id": 2,
-        "product_name": "Sena Durbar 5W30 (Passenger Car Engine Oil)",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1689833465.png"
-      },
-      {
-        "product_id": 3,
-        "product_name": "Sena Trigger 20W50 (Passenger Car Engine Oil)",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1689833686.png"
-      },
-      {
-        "product_id": 4,
-        "product_name": "Commando 4T 10w30 (Motorcycle Engine Oil)",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1689837124.png"
-      },
-      {
-        "product_id": 5,
-        "product_name": "Sena Anchor 15W40 (Diesel Engine Oil)",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1689835813.png"
-      },
-      {
-        "product_id": 6,
-        "product_name": "Sena Anchor Plus 20W50(Diesel Engine Oil)",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1689834106.png"
-      },
-      {
-        "product_id": 7,
-        "product_name": "Sena Red Beret 10W40(Passenger Car Engine Oil)",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1689837221.png"
-      },
-      {
-        "product_id": 8,
-        "product_name": "Sena HyBrid 0W20 (Passenger Car Engine Oil)",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1689837353.png"
-      },
-      {
-        "product_id": 9,
-        "product_name": "Sena Bunker",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1689837619.png"
-      },
-      {
-        "product_id": 10,
-        "product_name": "Sena Dextron",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1689837717.png"
-      },
-      {
-        "product_id": 11,
-        "product_name": "Sena Durjoy GearOil",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1689837904.png"
-      },
-      {
-        "product_id": 12,
-        "product_name": "Sena Bitumin",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1689837984.png"
-      },
-      {
-        "product_id": 13,
-        "product_name": "Sena Valour",
-        "product_image": "https://www.senakalyan.org/dynamic_gallery/1689838051.png"
-      }
-    ]
-  }
-]
-
-
+}
